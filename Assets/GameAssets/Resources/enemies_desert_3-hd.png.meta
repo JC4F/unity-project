@@ -1,0 +1,2885 @@
+fileFormatVersion: 2
+guid: 0810a05d84d137c4386ce02e3d961716
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82983dc706e6a304ba3ebbbe5fbd0493
+      internalID: 478387954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 430
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf8b37cf3fa8614293e90ef087a19ac
+      internalID: 1010762706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 432
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8510c197842c746acd91bcdd45dae2
+      internalID: 279170826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 432
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa771fc2fe37ea4fb5706b32743da68
+      internalID: -688795016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 437
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e408a195369bf57489d74383b79f4540
+      internalID: -754421746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 438
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc01a388c3824b4990bfb8dbd59a6d3
+      internalID: -1147138614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 403
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cfe3d2b342e5141ac0da88a4d703ce
+      internalID: -865305375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 442
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b4ab271463524ead27fbf53441ed2
+      internalID: 64480559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 444
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3c83dd7d7dca4caf8128f2f576d41
+      internalID: -874683149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_9
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 446
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3407c6115202f241bc1d14ffad2144d
+      internalID: 1711152199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_10
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 446
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56d2bf27677574685d61477caef94c
+      internalID: 83418269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 461
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7b81c4c425ce244becceea56106b37
+      internalID: 279337169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75f52d393a50f4cacd35a4363d9b74
+      internalID: -1875387824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 343
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d93c71b41ad754197dd03e0c0c4fe3
+      internalID: 575771840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 395
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48398c171e43724cad7af8eaf1d2a13
+      internalID: -1819825166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 346
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91fc649a449c44bbc95ccc6e20de9d
+      internalID: -952045694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 343
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992f5e8796d9244783890a01b558be7
+      internalID: 256554619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 344
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e7b0b0a8716f245b09f96c4c97db70
+      internalID: 1998834039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 349
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f6af38e933194097a1c347ded2245
+      internalID: 1947780738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 351
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526153077659bb4d8fb59a577fbdbfa
+      internalID: 843973110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 419
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b4f9e638ed4045a6b495028afe35a
+      internalID: -1222212693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 413
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbcdff3a1eb0c040b4f7769e9bf2515
+      internalID: -413053752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 417
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f2f7826e842014691499b850b5fb55
+      internalID: 333297195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_23
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 419
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43a6f90a7c2624cb4f18dded89dae2
+      internalID: -1775947161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 419
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934ac0e9937edb4e977c9c1ea9bcf53
+      internalID: -831270009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_25
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 379
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425a26a30c6b8645864e2d797ac0583
+      internalID: -829339353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 378
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e60bd3ba542ce946b1b0a24214a23ce
+      internalID: -916128072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_27
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 407
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8a74527cad8240a9b028595ff0ecf
+      internalID: -579690085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 412
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb71afb4f633964bbe2549efd0d62c4
+      internalID: 605625594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 346
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778cb27661e4d341aacc180d3a0a3d4
+      internalID: -485868609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 381
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c94890163bbd94e82d5623e4936f75
+      internalID: -1568004381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 359
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c08830c34a685448fefcd950876fff
+      internalID: -1285551796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47906e9281602a247958bc23c73e8387
+      internalID: -2026901149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 333
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b7e9e1cc07d904b96b025d8ff356bc
+      internalID: -615419425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 315
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd682d5b654ceaa43a9c1082b1cfa6ba
+      internalID: 1601045253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_35
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 381
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c70d92bc129a42828e1bad3dabaaf
+      internalID: -594032630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_36
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 380
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ca6b6fc4519843ad7733f8b977b51
+      internalID: 50831173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 363
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915fcd815a9afb4f868ba616cdaaf96
+      internalID: 125521618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_38
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 323
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3451b35fb76a594f8a515d5eeb52369
+      internalID: 58120323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_39
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 323
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0209d66db500ae48be3cab8bc4f02e2
+      internalID: -523398694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_40
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 325
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6481caa5b6595b45892462976f460ba
+      internalID: 1319412626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_41
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 326
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce21f739e67a0489f15a0fe7ade3e5
+      internalID: -2125030990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 350
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420c652b9d60a04fbf2b3d4d09ab5ad
+      internalID: -1035191584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb16adf4e6ff84abaae65c040d1b93
+      internalID: -84489804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 247
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f1dd6f32f5f1418ca2219f0ba379d
+      internalID: -1495049592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 326
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf8351690348a4d8a398c500769caf
+      internalID: -1831101840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 331
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8311692023c9f3c4a9c4b0c47db120cf
+      internalID: 1624923343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 256
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455384f6d6b1ffd43a74fdc779b37643
+      internalID: 276817961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d965cbd8156629479b8fa06ead2b9ea
+      internalID: 1211048663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d777e97e665d9045b168a5c0e420e3e
+      internalID: -1103389621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 258
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d85c3a54973f68479398b4e94cb6005
+      internalID: -1355078825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 259
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e957930343e1f4c833e90585d0a10e
+      internalID: -845488310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 321
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b33407fdc0796429015e48c5d3238d
+      internalID: 1024165202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_53
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 320
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90269e64aa8fcb844a6ce60803718d0b
+      internalID: 1235101755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 325
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6b40d25b307f4b8e8bc56ed991466
+      internalID: -1697642972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_55
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 249
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c242af94b76414e9e9e81751978c11
+      internalID: -621219781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 291
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d937487f848f9148aee25242f0c5b9d
+      internalID: 1400201673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 244
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c0947013e2fd40bb8d64ef9ac499b
+      internalID: -1120417054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_58
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 252
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b214af62930d4084b1305c955df9b
+      internalID: 1375101683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_59
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 239
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff872e9b9bb26c4c9afbc5c07c04a00
+      internalID: -699618768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_60
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 255
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22426491975812040b91eb18391e439d
+      internalID: -1073995016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_61
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 272
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c446d3dd00e745745ae5a8ecab5f4fe1
+      internalID: -122286129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9052f8456087bb45a064e3d50340585
+      internalID: -1850392166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053b44583abc1b4e9640871866c65b3
+      internalID: 895425578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 177
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace1a325b5f0834c9c20db68816d321
+      internalID: -1669161021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_65
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 148
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb2c5a597307f4faeed26043ead70c
+      internalID: -1458831063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d052b546950115340aa446e95360ce00
+      internalID: -1687663899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 145
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e4b4dba4e0e243b81e559a696d7c4
+      internalID: -1073483834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 187
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98784c1f51d4694bb2143d6caad9397
+      internalID: -898529897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_69
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 187
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9ffab00bf09984bbe2dc262cdd4047
+      internalID: -1345842461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_70
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 177
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b79a92ffccbde44a8306635b0a78d7
+      internalID: -2094095440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_71
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 160
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab1603ec3707e4da48f019ae8abc99
+      internalID: -1381383421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 172
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df21f04e6c499c847a139faea70260e5
+      internalID: 1040728542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_73
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 221
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856a3cd1b338af418e51386235e922f
+      internalID: 1752476698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_74
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 187
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16648205b07d83e42be04851605d1526
+      internalID: -977508886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_75
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 184
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbea21b271310345b824314e3904ea8
+      internalID: -2045085244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b2758a641b1949b14a51f12a68379
+      internalID: -1852910256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 170
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efdd3c09c704a4a8282e2ef622eb94
+      internalID: -1683697243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c559aee57d32d4bbc5dba887ffaaea
+      internalID: -530669876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_79
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 189
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ee67ff64c38245ad3c2e547372f66
+      internalID: -1187013682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6898f517ec834f45b37793a8a5654bc
+      internalID: -1838052079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba206f6704d42c42ba631bf4b6eee92
+      internalID: 522034382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 180
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7594fd59f75c43ab7f856c141de84
+      internalID: 2110812589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 97
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21884bf2e1cb9b4b9e8a82043cc4f2b
+      internalID: 1302592810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_84
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 160
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0baa7dbb52e38b4288c559677db74db
+      internalID: 973635762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_85
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 134
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a48395895be294da2339fd600a9f61
+      internalID: 275936725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_86
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 149
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6bf931729fc84996e35bfd1a2946a
+      internalID: 403842744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 138
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9417ebeaf85e4c8b7cc46d5aae2c7
+      internalID: -746001174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9af7bc4235ddce4282f0a0c7562b407
+      internalID: 1318855865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf5da65abac7c479efd2dc81c70c24
+      internalID: 1854466303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 87
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a152d2febd7347aa98e67f0b6f6de
+      internalID: 1977147636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 104
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3504945e61154439ddad1fb5050618
+      internalID: 1156790068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_92
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 91
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3466bb9b1e90f47929ffbc37a075cf
+      internalID: -259561250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 139
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98525c83eccc2b042916d2a1fa9b5bfc
+      internalID: -2051301978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 103
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d29ef0cd0795a4184927bc76810dd6
+      internalID: 1170835398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_95
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a693604d2cef4692cec2e6af07d23
+      internalID: -2080719903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 101
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ea1361ae87f5478caa60a1d9c6d1d
+      internalID: 963815057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_97
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 134
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33b6c9768e143439c53d6925bfe463
+      internalID: 1371245061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_98
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 112
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc83d54ad745a646bf167b2c1c59140
+      internalID: -1131738118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5168e134dbbe4d97a149f329a9a34
+      internalID: 1770180968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d9fd6e44d6f04ead63143cab4150c
+      internalID: 50730377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07cbbb127cff8041ba86b6511c12487
+      internalID: 1436855018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 76
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b1f0b42a61bf4bb5e0d59d3babf62
+      internalID: -726263136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ca47982f2b8d04cbe6e5960d9ef8a4
+      internalID: -305594801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_104
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 65
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345359295489d14891806ed35140a68
+      internalID: -1272538527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_105
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 34
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e73572c1314548b9edba1f5f79c08
+      internalID: 76922252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_106
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8c017a84331248850d8ec3bc605ab
+      internalID: -2095203730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_107
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 81
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea91f386a6e2c4e9b494060c750f4a
+      internalID: -2019220237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_108
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 98
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e924912e7717c649a112248dbea8fe4
+      internalID: -1626856488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 29
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f53aeb663bea498768bec83f78ffb
+      internalID: 945944224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2c4653396696e45b560118096b5b1f
+      internalID: -248947932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_111
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 19
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99302f94100449744a065a17e390877f
+      internalID: 1989780142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_112
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 50
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a33b2cf25bb243a16d495d28a32fc
+      internalID: -1608742148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_113
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 70
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b4e499edaff8458d368e235c54169
+      internalID: -1647286525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_114
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 75
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed1e13417b5124c960722c7944b3b4
+      internalID: 1825977144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_115
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857ff86d160c8f42be36195bac89eba
+      internalID: 868784941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_116
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30535a067d9a94fa4c4d6a49fa1111
+      internalID: -62811057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_117
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 45
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198ed60d99a1d549a446fe2734c4177
+      internalID: -1060831859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_118
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 12
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcd7df60be1d642af85b2661f40ec8
+      internalID: -499673621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753ed4f5515b6e47afdecaefeb54e2a
+      internalID: 1405625346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_120
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec9c4e6a214494a8befa66e3b5aaca
+      internalID: 1331075203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_121
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1b76da892385428853e3da3c2b124
+      internalID: -1819508682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_122
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828592c73686324b8833bbf264850cd
+      internalID: 1192243659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_123
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 8
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95239130a7b314643a9f38ffa3535a3c
+      internalID: -278431958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies_desert_3-hd_124
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 10
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9702bb89d4700ac4bb854642d58d28e4
+      internalID: 1676204298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemies_desert_3-hd_0: 478387954
+      enemies_desert_3-hd_1: 1010762706
+      enemies_desert_3-hd_10: 83418269
+      enemies_desert_3-hd_100: 50730377
+      enemies_desert_3-hd_101: 1436855018
+      enemies_desert_3-hd_102: -726263136
+      enemies_desert_3-hd_103: -305594801
+      enemies_desert_3-hd_104: -1272538527
+      enemies_desert_3-hd_105: 76922252
+      enemies_desert_3-hd_106: -2095203730
+      enemies_desert_3-hd_107: -2019220237
+      enemies_desert_3-hd_108: -1626856488
+      enemies_desert_3-hd_109: 945944224
+      enemies_desert_3-hd_11: 279337169
+      enemies_desert_3-hd_110: -248947932
+      enemies_desert_3-hd_111: 1989780142
+      enemies_desert_3-hd_112: -1608742148
+      enemies_desert_3-hd_113: -1647286525
+      enemies_desert_3-hd_114: 1825977144
+      enemies_desert_3-hd_115: 868784941
+      enemies_desert_3-hd_116: -62811057
+      enemies_desert_3-hd_117: -1060831859
+      enemies_desert_3-hd_118: -499673621
+      enemies_desert_3-hd_119: 1405625346
+      enemies_desert_3-hd_12: -1875387824
+      enemies_desert_3-hd_120: 1331075203
+      enemies_desert_3-hd_121: -1819508682
+      enemies_desert_3-hd_122: 1192243659
+      enemies_desert_3-hd_123: -278431958
+      enemies_desert_3-hd_124: 1676204298
+      enemies_desert_3-hd_13: 575771840
+      enemies_desert_3-hd_14: -1819825166
+      enemies_desert_3-hd_15: -952045694
+      enemies_desert_3-hd_16: 256554619
+      enemies_desert_3-hd_17: 1998834039
+      enemies_desert_3-hd_18: 1947780738
+      enemies_desert_3-hd_19: 843973110
+      enemies_desert_3-hd_2: 279170826
+      enemies_desert_3-hd_20: -1222212693
+      enemies_desert_3-hd_21: -413053752
+      enemies_desert_3-hd_22: 333297195
+      enemies_desert_3-hd_23: -1775947161
+      enemies_desert_3-hd_24: -831270009
+      enemies_desert_3-hd_25: -829339353
+      enemies_desert_3-hd_26: -916128072
+      enemies_desert_3-hd_27: -579690085
+      enemies_desert_3-hd_28: 605625594
+      enemies_desert_3-hd_29: -485868609
+      enemies_desert_3-hd_3: -688795016
+      enemies_desert_3-hd_30: -1568004381
+      enemies_desert_3-hd_31: -1285551796
+      enemies_desert_3-hd_32: -2026901149
+      enemies_desert_3-hd_33: -615419425
+      enemies_desert_3-hd_34: 1601045253
+      enemies_desert_3-hd_35: -594032630
+      enemies_desert_3-hd_36: 50831173
+      enemies_desert_3-hd_37: 125521618
+      enemies_desert_3-hd_38: 58120323
+      enemies_desert_3-hd_39: -523398694
+      enemies_desert_3-hd_4: -754421746
+      enemies_desert_3-hd_40: 1319412626
+      enemies_desert_3-hd_41: -2125030990
+      enemies_desert_3-hd_42: -1035191584
+      enemies_desert_3-hd_43: -84489804
+      enemies_desert_3-hd_44: -1495049592
+      enemies_desert_3-hd_45: -1831101840
+      enemies_desert_3-hd_46: 1624923343
+      enemies_desert_3-hd_47: 276817961
+      enemies_desert_3-hd_48: 1211048663
+      enemies_desert_3-hd_49: -1103389621
+      enemies_desert_3-hd_5: -1147138614
+      enemies_desert_3-hd_50: -1355078825
+      enemies_desert_3-hd_51: -845488310
+      enemies_desert_3-hd_52: 1024165202
+      enemies_desert_3-hd_53: 1235101755
+      enemies_desert_3-hd_54: -1697642972
+      enemies_desert_3-hd_55: -621219781
+      enemies_desert_3-hd_56: 1400201673
+      enemies_desert_3-hd_57: -1120417054
+      enemies_desert_3-hd_58: 1375101683
+      enemies_desert_3-hd_59: -699618768
+      enemies_desert_3-hd_6: -865305375
+      enemies_desert_3-hd_60: -1073995016
+      enemies_desert_3-hd_61: -122286129
+      enemies_desert_3-hd_62: -1850392166
+      enemies_desert_3-hd_63: 895425578
+      enemies_desert_3-hd_64: -1669161021
+      enemies_desert_3-hd_65: -1458831063
+      enemies_desert_3-hd_66: -1687663899
+      enemies_desert_3-hd_67: -1073483834
+      enemies_desert_3-hd_68: -898529897
+      enemies_desert_3-hd_69: -1345842461
+      enemies_desert_3-hd_7: 64480559
+      enemies_desert_3-hd_70: -2094095440
+      enemies_desert_3-hd_71: -1381383421
+      enemies_desert_3-hd_72: 1040728542
+      enemies_desert_3-hd_73: 1752476698
+      enemies_desert_3-hd_74: -977508886
+      enemies_desert_3-hd_75: -2045085244
+      enemies_desert_3-hd_76: -1852910256
+      enemies_desert_3-hd_77: -1683697243
+      enemies_desert_3-hd_78: -530669876
+      enemies_desert_3-hd_79: -1187013682
+      enemies_desert_3-hd_8: -874683149
+      enemies_desert_3-hd_80: -1838052079
+      enemies_desert_3-hd_81: 522034382
+      enemies_desert_3-hd_82: 2110812589
+      enemies_desert_3-hd_83: 1302592810
+      enemies_desert_3-hd_84: 973635762
+      enemies_desert_3-hd_85: 275936725
+      enemies_desert_3-hd_86: 403842744
+      enemies_desert_3-hd_87: -746001174
+      enemies_desert_3-hd_88: 1318855865
+      enemies_desert_3-hd_89: 1854466303
+      enemies_desert_3-hd_9: 1711152199
+      enemies_desert_3-hd_90: 1977147636
+      enemies_desert_3-hd_91: 1156790068
+      enemies_desert_3-hd_92: -259561250
+      enemies_desert_3-hd_93: -2051301978
+      enemies_desert_3-hd_94: 1170835398
+      enemies_desert_3-hd_95: -2080719903
+      enemies_desert_3-hd_96: 963815057
+      enemies_desert_3-hd_97: 1371245061
+      enemies_desert_3-hd_98: -1131738118
+      enemies_desert_3-hd_99: 1770180968
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
