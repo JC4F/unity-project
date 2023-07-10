@@ -1,0 +1,2716 @@
+fileFormatVersion: 2
+guid: dc22014b3cf819c489afc82a22583e69
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimationSolider_0
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 655
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0223102f5f4049a6280a8292f49e5
+      internalID: -1364445717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_1
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 655
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e829d671ce36f8741888743678aeaa48
+      internalID: -1551857552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_2
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 692
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a19d2db5ce1bb41993d56ac1bd3fa6
+      internalID: -1891182903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_3
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 725
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac39349900ec76846aeb07a8f240d0d5
+      internalID: -1155476253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_4
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 726
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1eb27c8b8d964c915b6fc52f5012c
+      internalID: 2097971110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_5
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 519
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ac24c0f23a4a439700d18e30841ad
+      internalID: 1522518229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_6
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 232
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143acf5b05865449976dd66d9e36377
+      internalID: -2129170056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_7
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 127
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb3f05605a8a740bf8229778926562
+      internalID: 1826865748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 181
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb84a51e4d3144fa5f49bb8d8b8bff
+      internalID: 1672878241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_9
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 126
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11f65a84acdc441a1799ec8e4842b7
+      internalID: -532866450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_10
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 111
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089666552542c7e4588d120b124cdb5c
+      internalID: 1175628994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_11
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 6
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dfa945b276f36478325abee4ff547e
+      internalID: -1256720161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_12
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 10
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6fb681696e444883267d6179ea4e8
+      internalID: -225330509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_13
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 106
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37613be6f4aa4cf478c20b3c92cfb692
+      internalID: 1707481882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_14
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 203
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6539cd97e65fed4884955a5a0723619
+      internalID: 1489404863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_15
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 260
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82894542d0c645449ab72611c273174e
+      internalID: 1485827172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_16
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 367
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246abbf094361e24581503cc69234c5c
+      internalID: -130257188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_17
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 436
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f92b16a0870584885d99f6334b06f1
+      internalID: -164720424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_18
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 424
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313ccc31fa83eda41b448c978992737a
+      internalID: 1847746221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_19
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 517
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eca8617c627ee41aca41c8b80d5063
+      internalID: 695466544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_20
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 557
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49968537f1feec944a337afb88b4907f
+      internalID: -448035657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_21
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 554
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b877b615cea94c47834293d7e0ed99b
+      internalID: -654687783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_22
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 520
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb36091e05d4f44a5bf49bc0f6d8b8
+      internalID: -679737917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_23
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 582
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deffe4259539da44aa95aad6f543f18
+      internalID: 1865371922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_24
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 584
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8a447b40844140a5a86c2b509d10e
+      internalID: 1268973611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_25
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 554
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8549a9f286dab46ada17e66ba40f86
+      internalID: 1450651849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_26
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 585
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bbfb58a6254e244bb0667841be2d04
+      internalID: 1549485397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_27
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 625
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6de1ec1cadda549b7b097cdc14cc3a
+      internalID: 292840456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_28
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 625
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae63fc38026dc49980c97db835313a
+      internalID: 70322834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_29
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 691
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ca9d6acd34b1f4896acd4322356b6f
+      internalID: 869792934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_30
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 722
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41346f6606af742bf4b654e06a35d2
+      internalID: 390903378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_31
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 724
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f8e8509336264bb71395c2b129573
+      internalID: -1183153417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_32
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 725
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793db2c839a400149b10a6c516c52344
+      internalID: 272619916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_33
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 723
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd3b6408d4b0240bdd364ea58d8508
+      internalID: 1940803489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_34
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 692
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf5bd28e364c71428aa89e6239d3a9c
+      internalID: 610888868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_35
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 626
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f404367dff2154cbdf506e1be7e2ab
+      internalID: 1397177948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_36
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 626
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d811025e09cf243a119f974c42ff4e
+      internalID: 553387900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_37
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 554
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ce1de1edcb394283253ac71c209e6
+      internalID: -83498513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_38
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 368
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45457c630e02aa4459eb56e9c3edc4da
+      internalID: 748866417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_39
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 232
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d2d3e5e9e62348839ad2718df7903
+      internalID: 1727108189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_40
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 199
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f70ca7471f85d479a42540b49914a9
+      internalID: 1769419239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_41
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 19
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327b7572cfe2ce4e8638259c3e35a2e
+      internalID: -797501269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_42
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 6
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154b57a6d72319444b93edd71b118420
+      internalID: -2000476555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_43
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 164
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04248f1e9b541794d9d7c356f07af6cb
+      internalID: 640319319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_44
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 158
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4822bfbd3dc31944ad8785aa841b286
+      internalID: -1354961051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_45
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 163
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae11e85e7781adc45a0708b4628b4f5e
+      internalID: -805576446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_46
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 160
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfb158699ea939498065648ed8705d5
+      internalID: -1185460115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 185
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474c3c80b8848e4c81630426e2c4467
+      internalID: -1500596717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_48
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 224
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea79e3108c55647b44adbe22018b4e
+      internalID: 33114969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_49
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 252
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76273560b4c57074181307c4d46b132c
+      internalID: -1073405904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_50
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 216
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b83aa2b3baeea74ba9aca497660a2af
+      internalID: -1668229094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_51
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 181
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e57d985f7e7e64d85ddf168f0c4924
+      internalID: -936838547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_52
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 222
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2fc5ee7c18edd46bc238874ffca458
+      internalID: -69287684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_53
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 251
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acab432e73da5fc4a9fec976189a918c
+      internalID: -2012954130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_54
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 293
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbea88ab8d3114499649674e1372e86
+      internalID: -1165673693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_55
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 343
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41437da60970be44dbd28c16c74df809
+      internalID: -303208423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_56
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 373
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07e839c4e723d40bd28d511ab05645
+      internalID: 992413402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_57
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 457
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56109e1d8355b9542ad5bb6929b5fcc3
+      internalID: -1329258071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_58
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 245
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e565287be9e81a4b8f1cd889a410040
+      internalID: -382761571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_59
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 248
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61331d2b210669e488cac5321ec7a039
+      internalID: 34104037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_60
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f1c2df564df74792b7fb777827cf5
+      internalID: 952997338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_61
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 966
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754ca192a8d65d48baf579cf9ca9384
+      internalID: -1084636517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_62
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 817
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d514a3c1255b2a44ada5467861161b4
+      internalID: -1514559251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_63
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 797
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c07e1bf71ffc841bb64bff5fa70407
+      internalID: -1363088607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_64
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 796
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d966b134ef1142a8df4c98079fb6a
+      internalID: -2027906794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_65
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 759
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894c46f82351434ea81a8a133cb1c09
+      internalID: -1818599400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_66
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 625
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2268907d4c59594392ee5bdee3fcc16
+      internalID: -1729934699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_67
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 627
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442cbf6213b13e418697e12815c4826
+      internalID: 1853959991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_68
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 585
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80fbe2fadfb76b4bba6675fe6ad2aa8
+      internalID: -583009524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_69
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 553
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e4490327c86346af26877eb3d73a2
+      internalID: -1541913999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_70
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 553
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0a28ee80f80204fb2513914f8e21b5
+      internalID: 688446954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_71
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 554
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab32c8993b62f94ea670a62e5bebf1b
+      internalID: 1215330655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_72
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 557
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ba4bc454a9294eb037329f750d8f3
+      internalID: -1874053906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_73
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 314
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f376c81eee41684e97151ad7d7d573e
+      internalID: 339612644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_74
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 310
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90516a580f5d64aa2c1e998b1377e8
+      internalID: 1555713873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_75
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 212
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b04f19e30e7b144a1d50e7679c07c4
+      internalID: -632060009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_76
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 155
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764db9a33a66e74da7e2c20220479a1
+      internalID: -733952796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_77
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 183
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359841e687795c740835bb150ee2c4b1
+      internalID: 897269191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_78
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 183
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5863e190dd44a4192311344c8965f8
+      internalID: 1796871069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_79
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 340
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56fc5a7a0510b345b4a4fd9f5eee8a4
+      internalID: 1953760630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_80
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 798
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d890d69813bc094386b241f8222bf5c
+      internalID: 664327578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_81
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 818
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3493fa3c1dd5aa4e8faa6969b598f7e
+      internalID: -1214807504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_82
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 816
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15dc5b768705004b8339beb73ae78dc
+      internalID: -1043245339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_83
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 795
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed1bd3da907e741bf598b9d2a76469
+      internalID: -508988971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_84
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 818
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94682414ff0fca4194ff7b2149a59a2
+      internalID: -1675946924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_85
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 665
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6554aefb8d700245b1165e22f74fc33
+      internalID: 1302758484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_86
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 696
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5249dd756155b442b683e16eb9a5c05
+      internalID: -362121883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_87
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1292
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f68237da7e6a84f8fd16a79e595526
+      internalID: -1382293764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_88
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1481
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16112252baffc847ad2b2621683c621
+      internalID: -1802984279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1134
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66622dd8b3b0ff646b82042d578d3277
+      internalID: 1445210894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_90
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 818
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b62e2d2fde1034d823c2235bff658a
+      internalID: 872915127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_91
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 738
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88038c1d347fe9043bf29376f773ef9c
+      internalID: -1195821677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_92
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 16
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac112f5c485c5945823f8faae629f39
+      internalID: -1573759273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_93
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 37
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad3b421c20ad94ab2e56ca2e9d0182
+      internalID: 1119812878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_94
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 434
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13295680886cf644bf74b4b952d1873
+      internalID: 1398537713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_95
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 366
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94871616cb1c36d4f9043ca0c4591e0d
+      internalID: 272163758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_96
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 322
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9b81bc03791544a3568e895bf4aa0
+      internalID: -47150532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_97
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 534
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e796992bceec09b4cb3f1411ac9ae71c
+      internalID: -2022283156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_98
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 492
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca360add62f7f443acf21bb4645d1cd
+      internalID: -1680837470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_99
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 430
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479d14276300bb42a785e4a26c0b997
+      internalID: -1059930277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_100
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 596
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde184c8055a7b94fb8c4cf875e8b915
+      internalID: -1479999360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_101
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 486
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d40311e1dc7ae40b5c12dbe643212f
+      internalID: -2017925735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_102
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 458
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437ac113caeb9c942b1a3022cd5a6c35
+      internalID: 2025282510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_103
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 483
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72d432a506fc614ba4a03ac980b26b9
+      internalID: 1336295605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_104
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 341
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d57d14793de3849932a55fc000d589
+      internalID: 117020104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_105
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 692
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e314a09ac321f4988090783929373a
+      internalID: -303649613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_106
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 391
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b0deee30b09e46a779204dabc4d88
+      internalID: -2049013395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_107
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 340
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b6f361d29b5ba4ea0f7b79c71e253b
+      internalID: 1826145512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_108
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 261
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9ee9c0accd2b4cbf3efb08a321079
+      internalID: 1641424881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_109
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 265
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093aba8a1d2c70f4aaa71deb59601e4f
+      internalID: -1082100114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_110
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 122
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24063dea1bd087b46834522d3e7e342a
+      internalID: -2108823882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_111
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 587
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45651bae9cfdec642b73ff45f0d38974
+      internalID: -2022332720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_112
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 2
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d82be1a4ce664f87b0eeaddc4d582
+      internalID: 1052703382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_113
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0b82eba9aff54180f73040b95209b
+      internalID: -1068883602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_114
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 43
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90447ca7c2060a5499d3d3cb8bb67472
+      internalID: -1182514988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_115
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 86
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565553ce3ce97ce4198b4a034f88b919
+      internalID: -1877210341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationSolider_116
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 82
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61d8ad9916ff7448ed31eb927a1b18
+      internalID: -1843635051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AnimationSolider_0: -1364445717
+      AnimationSolider_1: -1551857552
+      AnimationSolider_10: 1175628994
+      AnimationSolider_100: -1479999360
+      AnimationSolider_101: -2017925735
+      AnimationSolider_102: 2025282510
+      AnimationSolider_103: 1336295605
+      AnimationSolider_104: 117020104
+      AnimationSolider_105: -303649613
+      AnimationSolider_106: -2049013395
+      AnimationSolider_107: 1826145512
+      AnimationSolider_108: 1641424881
+      AnimationSolider_109: -1082100114
+      AnimationSolider_11: -1256720161
+      AnimationSolider_110: -2108823882
+      AnimationSolider_111: -2022332720
+      AnimationSolider_112: 1052703382
+      AnimationSolider_113: -1068883602
+      AnimationSolider_114: -1182514988
+      AnimationSolider_115: -1877210341
+      AnimationSolider_116: -1843635051
+      AnimationSolider_12: -225330509
+      AnimationSolider_13: 1707481882
+      AnimationSolider_14: 1489404863
+      AnimationSolider_15: 1485827172
+      AnimationSolider_16: -130257188
+      AnimationSolider_17: -164720424
+      AnimationSolider_18: 1847746221
+      AnimationSolider_19: 695466544
+      AnimationSolider_2: -1891182903
+      AnimationSolider_20: -448035657
+      AnimationSolider_21: -654687783
+      AnimationSolider_22: -679737917
+      AnimationSolider_23: 1865371922
+      AnimationSolider_24: 1268973611
+      AnimationSolider_25: 1450651849
+      AnimationSolider_26: 1549485397
+      AnimationSolider_27: 292840456
+      AnimationSolider_28: 70322834
+      AnimationSolider_29: 869792934
+      AnimationSolider_3: -1155476253
+      AnimationSolider_30: 390903378
+      AnimationSolider_31: -1183153417
+      AnimationSolider_32: 272619916
+      AnimationSolider_33: 1940803489
+      AnimationSolider_34: 610888868
+      AnimationSolider_35: 1397177948
+      AnimationSolider_36: 553387900
+      AnimationSolider_37: -83498513
+      AnimationSolider_38: 748866417
+      AnimationSolider_39: 1727108189
+      AnimationSolider_4: 2097971110
+      AnimationSolider_40: 1769419239
+      AnimationSolider_41: -797501269
+      AnimationSolider_42: -2000476555
+      AnimationSolider_43: 640319319
+      AnimationSolider_44: -1354961051
+      AnimationSolider_45: -805576446
+      AnimationSolider_46: -1185460115
+      AnimationSolider_47: -1500596717
+      AnimationSolider_48: 33114969
+      AnimationSolider_49: -1073405904
+      AnimationSolider_5: 1522518229
+      AnimationSolider_50: -1668229094
+      AnimationSolider_51: -936838547
+      AnimationSolider_52: -69287684
+      AnimationSolider_53: -2012954130
+      AnimationSolider_54: -1165673693
+      AnimationSolider_55: -303208423
+      AnimationSolider_56: 992413402
+      AnimationSolider_57: -1329258071
+      AnimationSolider_58: -382761571
+      AnimationSolider_59: 34104037
+      AnimationSolider_6: -2129170056
+      AnimationSolider_60: 952997338
+      AnimationSolider_61: -1084636517
+      AnimationSolider_62: -1514559251
+      AnimationSolider_63: -1363088607
+      AnimationSolider_64: -2027906794
+      AnimationSolider_65: -1818599400
+      AnimationSolider_66: -1729934699
+      AnimationSolider_67: 1853959991
+      AnimationSolider_68: -583009524
+      AnimationSolider_69: -1541913999
+      AnimationSolider_7: 1826865748
+      AnimationSolider_70: 688446954
+      AnimationSolider_71: 1215330655
+      AnimationSolider_72: -1874053906
+      AnimationSolider_73: 339612644
+      AnimationSolider_74: 1555713873
+      AnimationSolider_75: -632060009
+      AnimationSolider_76: -733952796
+      AnimationSolider_77: 897269191
+      AnimationSolider_78: 1796871069
+      AnimationSolider_79: 1953760630
+      AnimationSolider_8: 1672878241
+      AnimationSolider_80: 664327578
+      AnimationSolider_81: -1214807504
+      AnimationSolider_82: -1043245339
+      AnimationSolider_83: -508988971
+      AnimationSolider_84: -1675946924
+      AnimationSolider_85: 1302758484
+      AnimationSolider_86: -362121883
+      AnimationSolider_87: -1382293764
+      AnimationSolider_88: -1802984279
+      AnimationSolider_89: 1445210894
+      AnimationSolider_9: -532866450
+      AnimationSolider_90: 872915127
+      AnimationSolider_91: -1195821677
+      AnimationSolider_92: -1573759273
+      AnimationSolider_93: 1119812878
+      AnimationSolider_94: 1398537713
+      AnimationSolider_95: 272163758
+      AnimationSolider_96: -47150532
+      AnimationSolider_97: -2022283156
+      AnimationSolider_98: -1680837470
+      AnimationSolider_99: -1059930277
+      ArrowTower_0: 1851640348
+      ArrowTower_1: 1466470289
+      ArrowTower_2: -1230436196
+      Tower_0: 663826059
+      Tower_1: -39046219
+      Tower_2: 1593725085
+      Tower_3: 941986697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
