@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - DialogManager
+  - Empty
+  - Arrow
+  - GameSystem
+  - ArrowSentines
   layers:
   - Default
   - TransparentFX
@@ -12,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Top
   - 
   - 
   - 
