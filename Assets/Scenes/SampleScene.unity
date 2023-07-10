@@ -2556,6 +2556,7 @@ MonoBehaviour:
   Health: {fileID: 3524224195622809877}
   Gold: {fileID: 3524224194231218591}
   Wave: {fileID: 3524224194351802049}
+  PauseIcon: {fileID: 318442685}
 --- !u!1 &1793014994
 GameObject:
   m_ObjectHideFlags: 0
@@ -5627,6 +5628,7 @@ GameObject:
   - component: {fileID: 7965584419552775877}
   - component: {fileID: 7965584419552775876}
   - component: {fileID: 7965584419552775883}
+  - component: {fileID: 7965584419552775884}
   m_Layer: 0
   m_Name: Dialog
   m_TagString: Untagged
@@ -5645,3 +5647,15 @@ SortingGroup:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
+--- !u!114 &7965584419552775884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7965584419552775878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d80dd804512104abe36cdb8a701b24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
