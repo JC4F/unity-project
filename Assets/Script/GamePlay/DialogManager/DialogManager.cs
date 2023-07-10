@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class DialogManager : MonoBehaviour
 {
+  public static bool isGamePaused = false;
   public GameObject SubScreen;
   public GameObject PauseDialog;
   public GameObject WinDialog;
@@ -11,7 +12,7 @@ public class DialogManager : MonoBehaviour
   public GameObject Health;
   public GameObject Gold;
   public GameObject Wave;
-
+  public GameObject PauseIcon;
 
   private void openControl()
   {
@@ -19,6 +20,8 @@ public class DialogManager : MonoBehaviour
     Health.SetActive(false);
     Gold.SetActive(false);
     Wave.SetActive(false);
+    PauseIcon.SetActive(false);
+    isGamePaused = true;
   }
 
   private void closeControl()
@@ -27,6 +30,9 @@ public class DialogManager : MonoBehaviour
     Health.SetActive(true);
     Gold.SetActive(true);
     Wave.SetActive(true);
+    PauseIcon.SetActive(true);
+    Time.timeScale = 1f;
+    isGamePaused = false;
   }
 
   public void handlOpenPauseDialog()
