@@ -13,7 +13,6 @@ public class DialogAnimationWrapper : MonoBehaviour
 
   public void OnAnimationComplete()
   {
-    Debug.Log("hihi");
     if (DialogManager.isGamePaused)
     {
       Time.timeScale = 0f;
