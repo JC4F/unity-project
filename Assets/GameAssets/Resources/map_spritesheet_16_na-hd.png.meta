@@ -141,10 +141,10 @@ TextureImporter:
       name: map_spritesheet_16_na-hd_1
       rect:
         serializedVersion: 2
-        x: 1312
-        y: 1018
-        width: 590
-        height: 921
+        x: 1286
+        y: 910
+        width: 640
+        height: 1136
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

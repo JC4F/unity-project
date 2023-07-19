@@ -9,20 +9,12 @@ public class DialogManager : MonoBehaviour
   public GameObject PauseDialog;
   public GameObject WinDialog;
   public GameObject LooseDialog;
-  public GameObject Health;
-  public GameObject Gold;
-  public GameObject Wave;
-  public GameObject PauseIcon;
   public GameObject FadeBackground;
 
   private void openControl()
   {
     SubScreen.SetActive(true);
     FadeBackground.SetActive(true);
-    Health.SetActive(false);
-    Gold.SetActive(false);
-    Wave.SetActive(false);
-    PauseIcon.SetActive(false);
     isGamePaused = true;
   }
 
@@ -30,10 +22,6 @@ public class DialogManager : MonoBehaviour
   {
     SubScreen.SetActive(false);
     FadeBackground.SetActive(false);
-    Health.SetActive(true);
-    Gold.SetActive(true);
-    Wave.SetActive(true);
-    PauseIcon.SetActive(true);
     Time.timeScale = 1f;
     isGamePaused = false;
   }

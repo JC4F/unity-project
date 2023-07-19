@@ -13,7 +13,7 @@ public class DialogAnimationWrapper : MonoBehaviour
 
   public void OnAnimationComplete()
   {
-    if (DialogManager.isGamePaused)
+    if (!DialogManager.isGamePaused)
     {
       Time.timeScale = 0f;
     }

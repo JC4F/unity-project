@@ -4,11 +4,31 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - DialogManager
-  - Empty
+  - checkpoint
+  - checkpoint02
+  - Enemy
+  - Ally
   - Arrow
-  - GameSystem
+  - Artillerist
+  - Military
+  - Mage
+  - Empty
+  - RangeTower
   - ArrowSentines
+  - ArtilleristSentines
+  - MilitarySentines
+  - MageSentines
+  - Tower
+  - Inactive
+  - ArtilleristPower
+  - Hidden
+  - GameSystem
+  - Wave
+  - SkipCloseRight
+  - SkipCloseLeft
+  - WaveSkip
+  - SkillLeft
+  - SkillRight
   layers:
   - Default
   - TransparentFX
@@ -16,16 +36,16 @@ TagManager:
   - 
   - Water
   - UI
-  - Top
+  - logo
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Object
+  - MenuOption
+  - UI/UX
+  - sentglow
+  - glow
+  - sentglow
+  - FadeMap
+  - Ignore Collider
   - 
   - 
   - 
@@ -45,7 +65,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: New Layer 1
-    uniqueID: 3332493815
     locked: 0
