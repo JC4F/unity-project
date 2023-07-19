@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class HandleEventPauseDialog : MonoBehaviour
@@ -18,11 +19,13 @@ public class HandleEventPauseDialog : MonoBehaviour
 
   public void onRestartClick()
   {
-    Debug.Log("click to restart");
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    Time.timeScale = 1f;
   }
 
   public void onQuitClick()
   {
-    Debug.Log("click to quit");
+    SceneManager.LoadScene(1);
+    Time.timeScale = 1f;
   }
 }

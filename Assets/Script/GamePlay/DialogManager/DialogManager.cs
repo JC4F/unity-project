@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DialogManager : MonoBehaviour
 {
-  public static bool isGamePaused = false;
+  // public static bool isGamePaused = false;
   public GameObject SubScreen;
   public GameObject PauseDialog;
   public GameObject WinDialog;
@@ -15,7 +15,7 @@ public class DialogManager : MonoBehaviour
   {
     SubScreen.SetActive(true);
     FadeBackground.SetActive(true);
-    isGamePaused = true;
+    // isGamePaused = true;
   }
 
   private void closeControl()
@@ -23,7 +23,7 @@ public class DialogManager : MonoBehaviour
     SubScreen.SetActive(false);
     FadeBackground.SetActive(false);
     Time.timeScale = 1f;
-    isGamePaused = false;
+    // isGamePaused = false;
   }
 
   public void handlOpenPauseDialog()
